@@ -305,7 +305,7 @@ def menu(my_name,my_id):
 	cetak(panel(f"Jika Ingin Masuk Ke Menu Crack Instagram Ketik[bold green] Instagram[bold white] Untuk Masuk Ke Menu Instagram",width=90,style=f"bold white"))
 	_____bimbim___xd____ = input(f' [+] Pilih Menu Crack : ')
 	if _____bimbim___xd____ in ['1','01']:
-		bimbim_dump()
+		brayen_dump()
 	elif _____bimbim___xd____ in ['2','02']:
 		dump_massal()
 	elif _____bimbim___xd____ in ['3','03']:
